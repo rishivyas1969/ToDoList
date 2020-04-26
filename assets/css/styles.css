@@ -42,8 +42,8 @@ li:hover span {
 }
 
 #box {
-    width: 25%;
-    margin: 100px auto;
+    width: 500px;
+    margin: auto auto;
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
     background-color: #f7f7f7;
 }
